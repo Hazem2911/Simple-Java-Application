@@ -1,0 +1,10 @@
+Who was the first President of the United States?;George Washington;Thomas Jefferson;Abraham Lincoln;John Adams;A
+What year did the Titanic sink?;1910;1912;1914;1916;B
+Who wrote the play "Romeo and Juliet"?;William Shakespeare;Charles Dickens;Mark Twain;Jane Austen;A
+What ancient civilization built the pyramids?;Romans;Greeks;Egyptians;Mayans;C
+Who discovered penicillin?;Marie Curie;Alexander Fleming;Isaac Newton;Albert Einstein;B
+What was the name of the ship that brought the Pilgrims to America in 1620?;Santa Maria;Mayflower;Pinta;Nina;B
+Who was the first man to walk on the moon?;Buzz Aldrin;Yuri Gagarin;Neil Armstrong;Michael Collins;C
+What war was fought between the North and South regions in the United States?;World War I;World War II;Civil War;Revolutionary War;C
+Who was the British Prime Minister during World War II?;Winston Churchill;Neville Chamberlain;Margaret Thatcher;Tony Blair;A
+What empire was ruled by Julius Caesar?;Greek;Roman;Ottoman;Persian;B

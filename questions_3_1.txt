@@ -1,0 +1,10 @@
+Who was the first President of the United States?;George Washington;Thomas Jefferson;Abraham Lincoln;John Adams;A
+What year did the Titanic sink?;1910;1912;1914;1916;B
+Who wrote the play "Romeo and Juliet"?;William Shakespeare;Charles Dickens;Mark Twain;Jane Austen;A
+What ancient civilization built the pyramids?;Romans;Greeks;Egyptians;Mayans;C
+Who was the first man to walk on the moon?;Yuri Gagarin;Buzz Aldrin;Neil Armstrong;Michael Collins;C
+What year did World War II end?;1943;1944;1945;1946;C
+Who discovered America in 1492?;Christopher Columbus;Leif Erikson;Amerigo Vespucci;Ferdinand Magellan;A
+What was the name of the ship that brought the Pilgrims to America?;Santa Maria;Mayflower;Pinta;Nina;B
+Who was the famous nurse during the Crimean War?;Florence Nightingale;Clara Barton;Marie Curie;Edith Cavell;A
+What was the name of the first successful airplane invented by the Wright brothers?;Flyer I;Spirit of St. Louis;Concorde;Boeing 747;A

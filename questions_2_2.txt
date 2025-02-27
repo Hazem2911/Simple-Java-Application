@@ -1,0 +1,10 @@
+What is the chemical symbol for gold?;Ag;Au;Pb;Fe;B
+What is the powerhouse of the cell?;Nucleus;Mitochondria;Ribosome;Cell Wall;B
+Which gas makes up most of Earth's atmosphere?;Oxygen;Nitrogen;Carbon Dioxide;Argon;B
+What planet is closest to the Sun?;Venus;Mercury;Earth;Mars;B
+What is the process of plants making food called?;Digestion;Respiration;Photosynthesis;Circulation;C
+How many bones are in the adult human body?;200;206;210;220;B
+What part of the atom has a positive charge?;Electron;Proton;Neutron;Nucleus;B
+Which blood type is the universal donor?;A;B;O;AB;C
+What is the boiling point of water in Celsius?;90;95;100;110;C
+Which vitamin is produced by sunlight?;A;B;C;D;D

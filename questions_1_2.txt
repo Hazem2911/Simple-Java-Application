@@ -1,0 +1,10 @@
+What is 15 * 2?;25;30;35;40;B
+What is 100 / 4?;20;25;30;35;B
+Solve: 8 + 2 * 5;50;60;18;20;C
+What is the square root of 64?;6;7;8;9;C
+What is 27 divided by 3?;7;8;9;10;C
+What is 2^5?;16;32;64;128;B
+Solve: 45 - 9 + 3;36;39;42;45;B
+Find the LCM of 4 and 5;10;15;20;25;C
+What is 3 factorial (3!)?;3;6;9;12;B
+What is the sum of angles in a triangle?;90;120;180;360;C
