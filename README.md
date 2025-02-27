@@ -1,4 +1,6 @@
 Quiz Organizer App
+
+
 This application allows students to take quizzes based on different categories and difficulty levels. 
 Users start by entering their name, age, and ID, ensuring valid inputs.
 The app then prompts them to choose a category (Math, Science, or History) and a difficulty level (Easy, Medium, or Hard).
